@@ -1,0 +1,6 @@
+[<entity javadoc>]
+[<entity annotation>*]
+entity <entity name> [(<table name>)] {
+  [<field javadoc>]
+  [<field annotation>*]
+  <field name> <field type> [<validation>*]
